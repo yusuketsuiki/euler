@@ -15,5 +15,4 @@ while 1
 	i += 1
 end
 
-p fibonacci_list.size()
-#p fibonacci_list
+p fibonacci_list.size() + 1
